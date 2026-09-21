@@ -8,11 +8,14 @@
 ## 库
 iostream
 
-## 构建与运行
+## 构建
 ```bash
 cmake -S . -B build
 cd build
 cmake --build .
+```
+## 运行
+```bash
 ./hellow
 ```
 
